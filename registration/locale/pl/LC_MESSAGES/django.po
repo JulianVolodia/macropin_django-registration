@@ -172,7 +172,7 @@ msgid ""
 msgstr ""
 "\n"
 "Z pozdrowieniami,\n"
-"% Zarząd (site_name)s \n"
+"Zarząd %(site_name)s \n"
 
 #: templates/registration/activation_email_subject.txt:1
 #: templates/registration/admin_approve_complete_email_subject.txt:1
